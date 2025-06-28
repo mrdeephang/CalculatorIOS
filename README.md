@@ -1,5 +1,4 @@
 #IoSCalculator
-![Image](https://github.com/user-attachments/assets/d5b2394c-6af1-438a-9eb9-764685c4180d)
 
 An elegant and fully functional calculator app built using *Flutter*, inspired by the native iOS calculator interface. It supports basic arithmetic operations and provides a polished, responsive UI that mimics the look and feel of an iPhone calculator.
 
@@ -48,4 +47,6 @@ An elegant and fully functional calculator app built using *Flutter*, inspired b
   ** MIT License**
 
 Copyright (c) 2025 Deephang Thegim. All rights reserved.
+
+![Image](https://github.com/user-attachments/assets/d5b2394c-6af1-438a-9eb9-764685c4180d)
 
