@@ -4,7 +4,7 @@
 An elegant and fully functional calculator app built using *Flutter*, inspired by the native iOS calculator interface. It supports basic arithmetic operations and provides a polished, responsive UI that mimics the look and feel of an iPhone calculator.
 
 
-## 🚀 1.0 Features
+##  1.0 Features
 
 - Clean and responsive UI modeled after iOS.
 - Basic arithmetic: addition, subtraction, multiplication, division.
@@ -15,7 +15,7 @@ An elegant and fully functional calculator app built using *Flutter*, inspired b
 - Fully functional wide 0 button.
 - Entirely built inside main.dart.
 
-## 🛠 2.0 Installation
+##  2.0 Installation
 
 ### Prerequisites
 
