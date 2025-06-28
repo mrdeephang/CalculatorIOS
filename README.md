@@ -47,5 +47,5 @@ An elegant and fully functional calculator app built using *Flutter*, inspired b
 
   ** MIT License**
 
-Copyright (c) 2025 Deephang Thegim
+Copyright (c) 2025 Deephang Thegim. All rights reserved.
 
